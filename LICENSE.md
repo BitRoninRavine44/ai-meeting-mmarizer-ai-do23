@@ -1,4 +1,4 @@
-# 
+# Automático AI Meeting Notes Summarizer ferramentas. Com visão computacional e tomada de decisão automatizada — otimizado para máximo desempenho.
 
 
 
